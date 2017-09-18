@@ -13,6 +13,7 @@ namespace NewTestApplication
             Console.WriteLine("This is a test!");
             Console.WriteLine("Whole new thing!");
             Console.WriteLine("111111");
+            Console.WriteLine("222222");
         }
     }
 }
